@@ -1,0 +1,8 @@
+primeira aba: acessando o backend "npm start"
+segunda aba: startar mongodb na pasta bin, ".\mongod"
+terceira aba: console do postgres, psql -U postgres, senha 1998. 
+
+
+projeto final:
+aba do backend 
+aba do front end
